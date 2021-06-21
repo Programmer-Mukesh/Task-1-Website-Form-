@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Enrollment_Clouds.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+   margin-left: 8rem;
+   padding: 1rem;
+}
+
+.maincontent{
+    background-color: white;
+    width: 800px;
+    height: 480px;
+    position: absolute;
+    margin: 0rem 8rem ;
+    padding: 1rem;
+       
+}
+
+h2{
+    color: rgb(52, 170, 52);
+    font-size: 26px;
+    
+}
+
+h3{
+    color: rgb(102, 149, 192);
+    font-size: 18px;
+    padding-top: 8px;
+}
+
+.radiobtn{
+    padding-top: 5px;
+    font-size: 12.5px;
+}
+.radiotxt{
+    margin-left: 1rem;
+}
+
+#items{
+    width: 300px;
+    padding: 3px 1px;
+    margin: 5px 0px;
+    border-radius: 5px;
+    border: 1px solid rgb(151, 151, 151);
+    border-top: 2px solid rgb(151, 151, 151);
+}
+
+.dropdown{
+    margin: 5px 0px;
+    width: 300px ;
+    text-align: left;
+    padding: 2px 1px ;
+    
+    
+}
+.newhr{
+    margin: 2rem 0rem;
+}
+hr{
+    width: 75%;
+}
+
+.footer{
+    margin-top: 1.5rem;
+    font-size: 12px ;
+}
+.footer .terms{
+    color: rgb(58, 75, 153);
+    
+}
+
+.footer .btn{
+    background-color: rgb(245, 72, 41);
+    width: 100px;
+    margin-left: 3rem;
+    padding: 6px;
+    border: none;
+    color: white;
+}
