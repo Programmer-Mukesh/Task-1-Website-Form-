@@ -60,9 +60,7 @@
     margin: 5px 0px;
     width: 300px ;
     text-align: left;
-    padding: 2px 1px ;
-    
-    
+    padding: 2px 1px ;   
 }
 .newhr{
     margin: 2rem 0rem;
@@ -76,8 +74,7 @@ hr{
     font-size: 12px ;
 }
 .footer .terms{
-    color: rgb(58, 75, 153);
-    
+    color: rgb(58, 75, 153);   
 }
 
 .footer .btn{
